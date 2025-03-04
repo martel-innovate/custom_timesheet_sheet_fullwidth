@@ -12,7 +12,7 @@
     ],
     'assets': {
         'web.assets_backend': [
-            'timesheet_sheet_fullwidth/static/src/scss/styles.scss',
+            'custom_timesheet_sheet_fullwidth/static/src/scss/styles.scss',
         ],
     },
     'installable': True,
